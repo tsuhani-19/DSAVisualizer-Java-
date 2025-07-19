@@ -32,13 +32,6 @@ Perfect for understanding **DSA concepts** while practicing **Core Java**.
 - **Data Structures** (Stack, Queue, Linked List)  
 - **Menu-Driven Program** (User interaction)  
 
----
-
-****## How to Run (Locally)****
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/DataStructureVisualizer-Java.git
-
 
 
    ==== Data Structure Visualizer ====
